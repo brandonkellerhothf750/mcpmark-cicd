@@ -1,3 +1,2 @@
-const test = "hello"
-console.log(test)
-const unused = 5
+const test = 'hello';
+console.log(test);
